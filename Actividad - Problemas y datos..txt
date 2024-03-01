@@ -1,0 +1,19 @@
+Me gustaria "resolver" usando datos.
+
+- Acceso limitado a recursos básicos.
+
+-Prevencion de Tabaquismo juvenil
+
+- Estudio sobre la musica mas puntera 
+
+- Que Ia esta dando mejores resultados.
+
+
+
+Data frame : con principales recursos basicos, datos demograficos, pais, continente , presupuestos, datos de gastos de recursos.
+
+Datos sobre fumadores en españa, edad, situacion laboral, fumador desde jovoen, etc.
+
+Datos sobre la musica actual desde el 2023 
+
+Datos comparativos sobre IA 
